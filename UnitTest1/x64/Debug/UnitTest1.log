@@ -1,0 +1,14 @@
+﻿  UnitTest1.cpp
+C:\Users\aizen\Documents\lab c++\Lab_8.1_it\UnitTest1\UnitTest1.cpp(1,10): warning C4651: '/D_WINDLL' specified for precompiled header but not for current compile
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\aizen\Documents\lab c++\Lab_8.1_it\UnitTest1\UnitTest1.cpp(1,10): warning C4651: '/D_UNICODE' specified for precompiled header but not for current compile
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\aizen\Documents\lab c++\Lab_8.1_it\UnitTest1\UnitTest1.cpp(1,10): warning C4651: '/DUNICODE' specified for precompiled header but not for current compile
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\aizen\Documents\lab c++\Lab_8.1_it\UnitTest1\UnitTest1.cpp(1,10): warning C4651: '/D_DEBUG' specified for precompiled header but not for current compile
+  (compiling source file '/UnitTest1.cpp')
+  
+  UnitTest1.vcxproj -> C:\Users\aizen\Documents\lab c++\Lab_8.1_it\x64\Debug\UnitTest1.dll
